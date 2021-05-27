@@ -1,0 +1,16 @@
+Protovis
+stream graphs
+Small Multiples
+Horizon Graphs
+SPLOMs
+Parallel coordinates
+choropleth map
+Cartograms
+Dorling cartogram
+Adjacency Diagrams
+Force-Directed Layout
+Arc Diagrams
+circle-packing layouts
+Fancier algorithm
+icicle
+sunburst
