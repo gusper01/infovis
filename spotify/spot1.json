@@ -1,0 +1,1988 @@
+{
+  "items": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+      },
+      "followers": {
+        "href": null,
+        "total": 111158
+      },
+      "genres": [
+        "axe",
+        "bossa nova",
+        "latin alternative",
+        "mpb",
+        "samba reggae"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+      "id": "5jvQoouPSDvUEwynz5KPpv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ac0ebc6c16502382d397b4e840b176467581905a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/6d886d841ad004dd475e06ed12cc8358aab9a3eb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/642a5a75e63e180a02b557a08499fbbce17c6f51",
+          "width": 160
+        }
+      ],
+      "name": "Carlinhos Brown",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+      },
+      "followers": {
+        "href": null,
+        "total": 3510367
+      },
+      "genres": [
+        "album rock",
+        "art rock",
+        "beatlesque",
+        "classic rock",
+        "folk rock",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB",
+      "id": "4STHEaNw4mPZ2tzheohgXB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/144e83691af185e352e4bab7fd396f94ca285204",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/4fd90313067d2096aaeb7672a147280b8fdc9223",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/028e597ade5623ef43673617e6d2e86634a3629a",
+          "width": 160
+        }
+      ],
+      "name": "Paul McCartney",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:4STHEaNw4mPZ2tzheohgXB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+      },
+      "followers": {
+        "href": null,
+        "total": 2068109
+      },
+      "genres": [
+        "cantautor",
+        "nueva cancion",
+        "rock en espanol",
+        "spanish pop",
+        "trova"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4aeIWo5CMF1uRmqgJdwkZW",
+      "id": "4aeIWo5CMF1uRmqgJdwkZW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a22f3d2823353fb4a7a6fe17aba3eb77a781e6ae",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/9a1d3a0252dc7c3343450d282567aff441a1b7c2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/f94cc33e3d1c155650b4fc330d46864d8b337053",
+          "width": 160
+        }
+      ],
+      "name": "Joaquín Sabina",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:4aeIWo5CMF1uRmqgJdwkZW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+      },
+      "followers": {
+        "href": null,
+        "total": 243260
+      },
+      "genres": [
+        "argentine rock",
+        "cantautor",
+        "latin alternative",
+        "latin rock",
+        "nueva cancion",
+        "rock en espanol",
+        "rock nacional"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2FFrhWZS9vJsh2UvxYPRr6",
+      "id": "2FFrhWZS9vJsh2UvxYPRr6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e6b2993ff7a4c7b3a0ecdf66371ba301fa645219",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/91be96b1afd2e9e0124099cf1fb559829a81772d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/3f332adfe5c4b72cd50980a439b35b51fd161bb3",
+          "width": 160
+        }
+      ],
+      "name": "Pedro Aznar",
+      "popularity": 61,
+      "type": "artist",
+      "uri": "spotify:artist:2FFrhWZS9vJsh2UvxYPRr6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+      },
+      "followers": {
+        "href": null,
+        "total": 401615
+      },
+      "genres": [
+        "argentine rock",
+        "latin alternative",
+        "latin rock",
+        "post-punk argentina",
+        "rock en espanol",
+        "rock nacional",
+        "ska argentino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5R3NywPPOyhLfdvutgg0me",
+      "id": "5R3NywPPOyhLfdvutgg0me",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6088c3e4ae2ee1f74a01c7f28a8fa6c35ca08bbb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/1de46cfc23ade0a0d8829355504e2ab6796da41c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/b4002e62cb46105668aa03791a1ba994de942a0a",
+          "width": 160
+        }
+      ],
+      "name": "Los Abuelos De La Nada",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:5R3NywPPOyhLfdvutgg0me"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+      },
+      "followers": {
+        "href": null,
+        "total": 2743580
+      },
+      "genres": [
+        "album rock",
+        "art rock",
+        "beatlesque",
+        "bow pop",
+        "classic rock",
+        "folk rock",
+        "glam rock",
+        "mellow gold",
+        "rock",
+        "soft rock",
+        "symphonic rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7jefIIksOi1EazgRTfW2Pk",
+      "id": "7jefIIksOi1EazgRTfW2Pk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5a5b295b9cc24c4e45b881e7ca9bcd2a05546bc0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/2817983a90af44cd0b1dc6549e46bde5505c1848",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/c210c8956722d3ef264b23c02859863a2659ebf1",
+          "width": 160
+        }
+      ],
+      "name": "Electric Light Orchestra",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:7jefIIksOi1EazgRTfW2Pk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+      },
+      "followers": {
+        "href": null,
+        "total": 513102
+      },
+      "genres": [
+        "album rock",
+        "art rock",
+        "blues",
+        "blues rock",
+        "british blues",
+        "classic rock",
+        "electric blues",
+        "hard rock",
+        "instrumental rock",
+        "jazz fusion",
+        "rock",
+        "symphonic rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0AD4odMWVQ2wUSlgxOB5Rl",
+      "id": "0AD4odMWVQ2wUSlgxOB5Rl",
+      "images": [
+        {
+          "height": 400,
+          "url": "https://i.scdn.co/image/c54d3e62fa857b691de4e391b3cca35234462761",
+          "width": 600
+        },
+        {
+          "height": 133,
+          "url": "https://i.scdn.co/image/3248e1b9aa107aba3fda7eda239d5fe581bc0092",
+          "width": 200
+        },
+        {
+          "height": 43,
+          "url": "https://i.scdn.co/image/8bb4d6fae362e4514c44025d11d4d717d6f537f4",
+          "width": 64
+        }
+      ],
+      "name": "Jeff Beck",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:0AD4odMWVQ2wUSlgxOB5Rl"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL"
+      },
+      "followers": {
+        "href": null,
+        "total": 149490
+      },
+      "genres": [
+        "beatlesque",
+        "glam rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3bTAaMx9nf237AkBnGw3vL",
+      "id": "3bTAaMx9nf237AkBnGw3vL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8c1b7c3839699a707afb39db0b8ab6a1ea590755",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/1ebc242d10af9f849b1fb73a3d570b8a7d82dc0e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/b4911c308c255e19f311957285dc06f8e3676c6b",
+          "width": 160
+        }
+      ],
+      "name": "Jeff Lynne",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:3bTAaMx9nf237AkBnGw3vL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+      },
+      "followers": {
+        "href": null,
+        "total": 12117564
+      },
+      "genres": [
+        "permanent wave",
+        "pop punk",
+        "punk"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
+      "id": "7oPftvlwr6VrsViSDV7fJY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5c39df32d59ae1bd45867bb50e4322d14c3d1563",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/6ead95ca5533b0b9506a5fa0a6a8dbb01cba39ec",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/0b6acd82a794a121838aca87babc88a7b1929903",
+          "width": 160
+        }
+      ],
+      "name": "Green Day",
+      "popularity": 85,
+      "type": "artist",
+      "uri": "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+      },
+      "followers": {
+        "href": null,
+        "total": 1840242
+      },
+      "genres": [
+        "album rock",
+        "beatlesque",
+        "classic rock",
+        "folk rock",
+        "mellow gold",
+        "rock",
+        "roots rock",
+        "soft rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7FIoB5PHdrMZVC3q2HE5MS",
+      "id": "7FIoB5PHdrMZVC3q2HE5MS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8d1b36f226245c6c6d5f9fa1d020f95a5e0d3253",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/f00aa2a0bbeec665b9abe0d6b63399284e0ecf50",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/a10910e67b10a62eec462f5c46cebe149a860e6a",
+          "width": 160
+        }
+      ],
+      "name": "George Harrison",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:7FIoB5PHdrMZVC3q2HE5MS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+      },
+      "followers": {
+        "href": null,
+        "total": 1494499
+      },
+      "genres": [
+        "latin alternative",
+        "latin rock",
+        "rock en espanol",
+        "rock uruguayo"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4ZDoy7AWNgQVmX7T0u0B1j",
+      "id": "4ZDoy7AWNgQVmX7T0u0B1j",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc3d28ec8b0b23ab421033022",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c3d28ec8b0b23ab421033022",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c3d28ec8b0b23ab421033022",
+          "width": 160
+        }
+      ],
+      "name": "No Te Va Gustar",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:4ZDoy7AWNgQVmX7T0u0B1j"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+      },
+      "followers": {
+        "href": null,
+        "total": 3160762
+      },
+      "genres": [
+        "new wave",
+        "permanent wave",
+        "rock",
+        "uk post-punk"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+      "id": "7bu3H8JO7d0UbMoVzbo70s",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7ca743e822b80133971ccf5c70fcbd77a4f4f508",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/2cb2e14783685fd3d27006891aaaa35fc53cd82d",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9e1ed6613ac0ef103fbfca3c11ff35fec8d9c6b1",
+          "width": 64
+        }
+      ],
+      "name": "The Cure",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
+      },
+      "followers": {
+        "href": null,
+        "total": 89737
+      },
+      "genres": [
+        "argentine rock",
+        "latin alternative",
+        "latin rock",
+        "rock en espanol",
+        "rock nacional"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2fGM1BtKeCWjnriro6BaPS",
+      "id": "2fGM1BtKeCWjnriro6BaPS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/06018f52dda3ad40cf363c883493cf1b63144fe6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/67bdf372e48bc21b0ed1050bf14ecb3d097a2b07",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/9173f081e7ff24875c88a0dcdd6ec7d42f1bea55",
+          "width": 160
+        }
+      ],
+      "name": "Ella Es Tan Cargosa",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:2fGM1BtKeCWjnriro6BaPS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+      },
+      "followers": {
+        "href": null,
+        "total": 6872164
+      },
+      "genres": [
+        "art rock",
+        "classic rock",
+        "glam rock",
+        "permanent wave",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+      "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0dfa45563119fd98226ec0d5cd35a80473502469",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/764f946cb02e0a5e701f72ef80b1a9dfe8784efe",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/bb58aed3822efbd1f844aa9742ab635a970206cd",
+          "width": 160
+        }
+      ],
+      "name": "David Bowie",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+      },
+      "followers": {
+        "href": null,
+        "total": 2190673
+      },
+      "genres": [
+        "permanent wave",
+        "soft rock",
+        "sophisti-pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+      "id": "0Ty63ceoRnnJKVEYP0VQpk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4b1d1a1b6c2c7b33d7514d3c31e3c79e4743d685",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/b493f7779d95f48e2b7661bedf3d058924e7e5df",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/67d5400e2512b1e9e155a0c81bdcc41c31bf67a9",
+          "width": 160
+        }
+      ],
+      "name": "Sting",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+      },
+      "followers": {
+        "href": null,
+        "total": 1018547
+      },
+      "genres": [
+        "argentine rock",
+        "latin alternative",
+        "latin rock",
+        "nueva cancion",
+        "rock en espanol",
+        "rock nacional"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1bZNv4q3OxYq7mmnLha7Tu",
+      "id": "1bZNv4q3OxYq7mmnLha7Tu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9c76dcadb7c0ec0c124e200ca17822a21175dffc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/33d57a8813770a52120f98b1914e4a671f0e9560",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/8b7c81b77a45edc91340a37ea1a6c2a260e720a1",
+          "width": 160
+        }
+      ],
+      "name": "Fito Paez",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:1bZNv4q3OxYq7mmnLha7Tu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      },
+      "followers": {
+        "href": null,
+        "total": 7098168
+      },
+      "genres": [
+        "glam rock",
+        "mellow gold",
+        "piano rock",
+        "soft rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+      "id": "3PhoLpVuITZKcymswpck5b",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f50ae3e5cf3637c5f486b6205468c245644be36e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/6381c0467a37ad144dff97f716b1d0a3a1e79e56",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/566f206dcb14de731784c8a68aec8a46629cc621",
+          "width": 160
+        }
+      ],
+      "name": "Elton John",
+      "popularity": 86,
+      "type": "artist",
+      "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
+      },
+      "followers": {
+        "href": null,
+        "total": 75869
+      },
+      "genres": [
+        "alternative rock",
+        "glam rock",
+        "pop rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3NZE8jDD2cCzd4vUyZ5CQQ",
+      "id": "3NZE8jDD2cCzd4vUyZ5CQQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/03c0fede1dabdc0111de0a11f96ca536e6cc2db3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/4b146d17c6042e7307f778854054d51e48c8126c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/aaffaa22209b098ba0f6392410752ecdf5467164",
+          "width": 160
+        }
+      ],
+      "name": "Spacehog",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:3NZE8jDD2cCzd4vUyZ5CQQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "followers": {
+        "href": null,
+        "total": 4987421
+      },
+      "genres": [
+        "adult standards",
+        "funk",
+        "motown",
+        "quiet storm",
+        "soul"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id": "7guDJrEfX3qb6FEbdPA5qi",
+      "images": [
+        {
+          "height": 1008,
+          "url": "https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108",
+          "width": 1000
+        },
+        {
+          "height": 645,
+          "url": "https://i.scdn.co/image/37c7875911b1d8195b05d40061a86bd01908a0d9",
+          "width": 640
+        },
+        {
+          "height": 202,
+          "url": "https://i.scdn.co/image/3b24b51bf11404089c4d66acd0c612539c77e7e7",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/05489744160e3f6f94f707fa1e2a6d4bbd14a298",
+          "width": 64
+        }
+      ],
+      "name": "Stevie Wonder",
+      "popularity": 81,
+      "type": "artist",
+      "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+      },
+      "followers": {
+        "href": null,
+        "total": 1703979
+      },
+      "genres": [
+        "latin alternative",
+        "latin rock",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4uqzzJg3ww5eH7IgGV7DMT",
+      "id": "4uqzzJg3ww5eH7IgGV7DMT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b7bf4fe61e7eb14a9359f97b37c8b3b9f566e4e8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/07fb8c87c2014c4e44afe37a66f951a2d73e4197",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/23904e317ba161eeea91f94dd5e796be89f8add9",
+          "width": 160
+        }
+      ],
+      "name": "Bunbury",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:4uqzzJg3ww5eH7IgGV7DMT"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
+      },
+      "followers": {
+        "href": null,
+        "total": 22894
+      },
+      "genres": [
+        "argentine alternative rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4WEyRDFePTrRVfpV0Vdjs3",
+      "id": "4WEyRDFePTrRVfpV0Vdjs3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/077c49bb9a647e45a62915d6d29f42c3dcffa935",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/fcddfcc6ee39048047c11e6b39eae238f70d137e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/77f0da08e1e584d40d206d02616b695c02a62967",
+          "width": 160
+        }
+      ],
+      "name": "Los Perez García",
+      "popularity": 46,
+      "type": "artist",
+      "uri": "spotify:artist:4WEyRDFePTrRVfpV0Vdjs3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+      },
+      "followers": {
+        "href": null,
+        "total": 250714
+      },
+      "genres": [
+        "argentine rock",
+        "latin alternative",
+        "latin rock",
+        "rock en espanol",
+        "rock nacional"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5fVtUielMhdztOA34ArB6c",
+      "id": "5fVtUielMhdztOA34ArB6c",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6d2e9a888032887df1d9c387cae617d42935f1eb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/2b8bc72c7ef8bb16de0f7c88161ba1e8535fd3f0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/58a1ad54de32c99b2c97bc81e704bcc55ce4e2ee",
+          "width": 160
+        }
+      ],
+      "name": "Ratones Paranoicos",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:5fVtUielMhdztOA34ArB6c"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+      },
+      "followers": {
+        "href": null,
+        "total": 3674238
+      },
+      "genres": [
+        "mellow gold",
+        "rock drums",
+        "soft rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp",
+      "id": "4lxfqrEsLX6N1N4OCSkILp",
+      "images": [
+        {
+          "height": 1333,
+          "url": "https://i.scdn.co/image/31fbe64783eb5d493161640bd599dceafc615c6d",
+          "width": 1000
+        },
+        {
+          "height": 853,
+          "url": "https://i.scdn.co/image/f5b1b588936c53348efe5526caf65852a0bd1d36",
+          "width": 640
+        },
+        {
+          "height": 267,
+          "url": "https://i.scdn.co/image/ccd188b7082ce425d61640c11ea715d23dbce92a",
+          "width": 200
+        },
+        {
+          "height": 85,
+          "url": "https://i.scdn.co/image/7900732380c7303c222bc98f68e1b9fba3922439",
+          "width": 64
+        }
+      ],
+      "name": "Phil Collins",
+      "popularity": 81,
+      "type": "artist",
+      "uri": "spotify:artist:4lxfqrEsLX6N1N4OCSkILp"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+      },
+      "followers": {
+        "href": null,
+        "total": 273525
+      },
+      "genres": [
+        "argentine rock",
+        "latin alternative",
+        "latin rock",
+        "rock en espanol",
+        "rock nacional"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6Nm62oNQCdPxVoiQtFSksF",
+      "id": "6Nm62oNQCdPxVoiQtFSksF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab2ceb630be769c342111891a93f840bc70f5029",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/3d8695caeccac9cd4c73fcac21810ea3a0bc17b6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/0d09b79840a799bd01ccd1c7bce2887eeed55b4a",
+          "width": 160
+        }
+      ],
+      "name": "Estelares",
+      "popularity": 61,
+      "type": "artist",
+      "uri": "spotify:artist:6Nm62oNQCdPxVoiQtFSksF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
+      },
+      "followers": {
+        "href": null,
+        "total": 280471
+      },
+      "genres": [
+        "classic rock",
+        "dance rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3d2pb1dHTm8b61zAGVUVvO",
+      "id": "3d2pb1dHTm8b61zAGVUVvO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a0f8d4fe64430bff048527667dbb88e37f022bc2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/0607cb790c7ee7940a3f8eb59e4a999a1ec9eb54",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/a39482e2ce69e546f9103fab00d00a1b6edcf803",
+          "width": 160
+        }
+      ],
+      "name": "Mick Jagger",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:3d2pb1dHTm8b61zAGVUVvO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+      },
+      "followers": {
+        "href": null,
+        "total": 1468388
+      },
+      "genres": [
+        "argentine rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0Dy32zfSrQ332Bz8wsthKJ",
+      "id": "0Dy32zfSrQ332Bz8wsthKJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7ad74d43bb23c8947b0c10db",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747ad74d43bb23c8947b0c10db",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787ad74d43bb23c8947b0c10db",
+          "width": 160
+        }
+      ],
+      "name": "La Beriso",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:0Dy32zfSrQ332Bz8wsthKJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+      },
+      "followers": {
+        "href": null,
+        "total": 194894
+      },
+      "genres": [
+        "argentine rock",
+        "cantautor",
+        "folklore argentino",
+        "latin alternative",
+        "latin rock",
+        "nueva cancion",
+        "rock en espanol",
+        "rock nacional"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5yoimVE1rbc3kAx4uwr7eq",
+      "id": "5yoimVE1rbc3kAx4uwr7eq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c1e3238bfc8f95ae90734da0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c1e3238bfc8f95ae90734da0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c1e3238bfc8f95ae90734da0",
+          "width": 64
+        }
+      ],
+      "name": "León Gieco",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:5yoimVE1rbc3kAx4uwr7eq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+      },
+      "followers": {
+        "href": null,
+        "total": 943747
+      },
+      "genres": [
+        "argentine reggae",
+        "argentine rock",
+        "latin alternative",
+        "latin rock",
+        "reggae en espanol",
+        "rock en espanol",
+        "ska argentino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7FnZWGw9lwOr7WzieTKEPR",
+      "id": "7FnZWGw9lwOr7WzieTKEPR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/eabadd734449dfcb9ef1eb1599e76b89fe91af2f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/4a667792a1606375f4dfde24dd1ae0fe7dd51acc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/fa8460ab68ce2fee8efa608edcf0c23bd0eaaa8b",
+          "width": 160
+        }
+      ],
+      "name": "Los Pericos",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:7FnZWGw9lwOr7WzieTKEPR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+      },
+      "followers": {
+        "href": null,
+        "total": 2436543
+      },
+      "genres": [
+        "argentine rock",
+        "latin",
+        "latin alternative",
+        "latin pop",
+        "latin rock",
+        "mexican pop",
+        "rock en espanol",
+        "ska argentino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+      "id": "4TK1gDgb7QKoPFlzRrBRgR",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/0a44319db623b112c3fddca7a1ef88b5756265cd",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1c47795e21794ab947aa466283026148163d4bf5",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/f611096759364ce80a459c8fcc3e47d789ba34a7",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4957431c9881f30a238aeb0c2bc76e05e6a46831",
+          "width": 64
+        }
+      ],
+      "name": "Los Enanitos Verdes",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+      },
+      "followers": {
+        "href": null,
+        "total": 454238
+      },
+      "genres": [
+        "argentine reggae",
+        "argentine rock",
+        "latin alternative",
+        "latin rock",
+        "rock en espanol",
+        "rock nacional"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1Qv4E1VgZOGnOYd99Kp5Bs",
+      "id": "1Qv4E1VgZOGnOYd99Kp5Bs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/11f97a3c0bd678bc85792a0e5b2259ee034546ac",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/789c232bebd6bb8caa9e963e6165705d0cfea39d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/60ef41a8d7791a69cdceaffaa6ccfaa759183bfe",
+          "width": 160
+        }
+      ],
+      "name": "Las Pelotas",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:1Qv4E1VgZOGnOYd99Kp5Bs"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+      },
+      "followers": {
+        "href": null,
+        "total": 6630414
+      },
+      "genres": [
+        "dance pop",
+        "pop",
+        "urban contemporary"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6XpaIBNiVzIetEPCWDvAFP",
+      "id": "6XpaIBNiVzIetEPCWDvAFP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9cd1d09d5a351ca65c2f45246703614748ea9fed",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/47a663cdb51106bf7f77810d9b4794319aebe969",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/5dc8a6bbe3c8a3686b2ee3ec83dc12ab17658f53",
+          "width": 160
+        }
+      ],
+      "name": "Whitney Houston",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:6XpaIBNiVzIetEPCWDvAFP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+      },
+      "followers": {
+        "href": null,
+        "total": 43915
+      },
+      "genres": [
+        "argentine rock",
+        "rock en espanol",
+        "rock nacional"
+      ],
+      "href": "https://api.spotify.com/v1/artists/48Idb5uZga8diRAMTc9q3E",
+      "id": "48Idb5uZga8diRAMTc9q3E",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d039140b551fccb1434bf430f30888f6c8edca3c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/d98ebcd23448eb284f59d95cfae4323ec9cf4ee8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/2ed850a01b29c871976becdfdc70e798c34810c3",
+          "width": 160
+        }
+      ],
+      "name": "David Lebón",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:48Idb5uZga8diRAMTc9q3E"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+      },
+      "followers": {
+        "href": null,
+        "total": 1304653
+      },
+      "genres": [
+        "album rock",
+        "blues rock",
+        "classic rock",
+        "country rock",
+        "detroit rock",
+        "folk rock",
+        "hard rock",
+        "heartland rock",
+        "mellow gold",
+        "rock",
+        "soft rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/485uL27bPomh29R4JmQehQ",
+      "id": "485uL27bPomh29R4JmQehQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bcfe3262c4bf48edcce4d7e2e714f77187af6ac7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/58c6c06314b5f423d232ca8cb606071aec253218",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/3ed914376b726486063596cd6503fe1f97e91bfe",
+          "width": 160
+        }
+      ],
+      "name": "Bob Seger",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:485uL27bPomh29R4JmQehQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+      },
+      "followers": {
+        "href": null,
+        "total": 255984
+      },
+      "genres": [
+        "argentine rock",
+        "cumbia villera",
+        "latin alternative",
+        "rock en espanol",
+        "rock nacional"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6UAMLsapd2AyfEAEVFaxmc",
+      "id": "6UAMLsapd2AyfEAEVFaxmc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c19cf80d246a0fbe2c8f525e95fa2a8d075fe0ef",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/2e8ea29801f5b69b12f9928941bceb96257f25c2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/cb6ef83f4795ff02fb16ae4ce8de070dca7c68ba",
+          "width": 160
+        }
+      ],
+      "name": "La 25",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:6UAMLsapd2AyfEAEVFaxmc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+      },
+      "followers": {
+        "href": null,
+        "total": 6690152
+      },
+      "genres": [
+        "alternative rock",
+        "grunge",
+        "permanent wave",
+        "pop rock",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+      "id": "1w5Kfo2jwwIPruYS2UWh56",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/84e30e8cf16a203b32749e47174289e358c29555",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ca59fc8ce10cb43a2dd1e3a954621a1c4e4a7f5e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/6163da87f63a9f9859e57cb902a6ae5ead32325b",
+          "width": 160
+        }
+      ],
+      "name": "Pearl Jam",
+      "popularity": 80,
+      "type": "artist",
+      "uri": "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 1142619
+      },
+      "genres": [
+        "argentine rock",
+        "latin",
+        "latin alternative",
+        "latin pop",
+        "latin rock",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/25THA9HUHoxpCT4LBp7UsZ",
+      "id": "25THA9HUHoxpCT4LBp7UsZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbb862018edbbaeaeb0f960d0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bb862018edbbaeaeb0f960d0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bb862018edbbaeaeb0f960d0",
+          "width": 160
+        }
+      ],
+      "name": "Vicentico",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:25THA9HUHoxpCT4LBp7UsZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+      },
+      "followers": {
+        "href": null,
+        "total": 4443083
+      },
+      "genres": [
+        "disco",
+        "mellow gold",
+        "soft rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1LZEQNv7sE11VDY3SdxQeN",
+      "id": "1LZEQNv7sE11VDY3SdxQeN",
+      "images": [
+        {
+          "height": 733,
+          "url": "https://i.scdn.co/image/1d5a05673975ba0c378cd280344e000b0b865620",
+          "width": 1000
+        },
+        {
+          "height": 469,
+          "url": "https://i.scdn.co/image/1ea4795e17ffa658d7ad23095d58997a278179a9",
+          "width": 640
+        },
+        {
+          "height": 147,
+          "url": "https://i.scdn.co/image/1f363042bdd59e0f80cb7b9cac1b312f9389b019",
+          "width": 200
+        },
+        {
+          "height": 47,
+          "url": "https://i.scdn.co/image/c707552215757c7f2dc6071e32d487a3c7b28d3f",
+          "width": 64
+        }
+      ],
+      "name": "Bee Gees",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:1LZEQNv7sE11VDY3SdxQeN"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG"
+      },
+      "followers": {
+        "href": null,
+        "total": 88995
+      },
+      "genres": [
+        "argentine heavy metal",
+        "argentine metal",
+        "argentine rock",
+        "latin metal",
+        "rock en espanol",
+        "rock nacional"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3IyuxBX0pwXqbeFI4DWmhG",
+      "id": "3IyuxBX0pwXqbeFI4DWmhG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737c24ee35b0e2726282854801",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027c24ee35b0e2726282854801",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517c24ee35b0e2726282854801",
+          "width": 64
+        }
+      ],
+      "name": "Riff",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:3IyuxBX0pwXqbeFI4DWmhG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+      },
+      "followers": {
+        "href": null,
+        "total": 518205
+      },
+      "genres": [
+        "new romantic",
+        "new wave",
+        "new wave pop",
+        "permanent wave",
+        "synthpop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7wJ9NwdRWtN92NunmXuwBk",
+      "id": "7wJ9NwdRWtN92NunmXuwBk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b95bff4977b32add30fe296517b0ea9f7fb92d1c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/8df72386dcd687a881becd37d708f83b8768352c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/d2d8c56a2f0d3c37b51735877cd5fb864726bcd5",
+          "width": 160
+        }
+      ],
+      "name": "Orchestral Manoeuvres In The Dark",
+      "popularity": 66,
+      "type": "artist",
+      "uri": "spotify:artist:7wJ9NwdRWtN92NunmXuwBk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+      },
+      "followers": {
+        "href": null,
+        "total": 2859350
+      },
+      "genres": [
+        "adult standards",
+        "classic rock",
+        "mellow gold",
+        "soft rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+      "id": "2y8Jo9CKhJvtfeKOsYzRdT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3ca37b557da4d1d62000919ee1cac217894ca7f1",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/2814af7088a713c66993c3f47708a799972a92cd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/0e239db56d7959bfcab6993a9863f1bae85abeda",
+          "width": 160
+        }
+      ],
+      "name": "Rod Stewart",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+      },
+      "followers": {
+        "href": null,
+        "total": 8755356
+      },
+      "genres": [
+        "alternative metal",
+        "alternative rock",
+        "modern rock",
+        "permanent wave",
+        "post-grunge",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+      "id": "7jy3rLJdDQY21OgRLCZ9sD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bbdf2bc486fde7c370e14ced32702157a5e24b32",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/46ea4632e2ada3950923c07f1c4508cf40f8daef",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/570fda7c72b221c94998f5731832e5975819e441",
+          "width": 160
+        }
+      ],
+      "name": "Foo Fighters",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+      },
+      "followers": {
+        "href": null,
+        "total": 2526948
+      },
+      "genres": [
+        "argentine rock",
+        "latin alternative",
+        "latin rock",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1QOmebWGB6FdFtW7Bo3F0W",
+      "id": "1QOmebWGB6FdFtW7Bo3F0W",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3cd3c2b5104d72a00cfa002c788b3deb521f8179",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/f6faf589e3036c67e0041b4c4cda7f45e80256d9",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/0f5aa3cb7e9ea60b1b4b9133ea02106288c7814b",
+          "width": 160
+        }
+      ],
+      "name": "Gustavo Cerati",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:1QOmebWGB6FdFtW7Bo3F0W"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 2100108
+      },
+      "genres": [
+        "argentine rock",
+        "latin alternative",
+        "latin rock",
+        "rock en espanol",
+        "ska argentino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
+      "id": "2FS22haX3FYbyOsUAkuYqZ",
+      "images": [
+        {
+          "height": 751,
+          "url": "https://i.scdn.co/image/fa61694bc1b21f212fef31d4f6b89e1d0b9ff7fa",
+          "width": 1000
+        },
+        {
+          "height": 480,
+          "url": "https://i.scdn.co/image/356b77649f85211b2f9f1da048a98122cfe7f007",
+          "width": 639
+        },
+        {
+          "height": 150,
+          "url": "https://i.scdn.co/image/b256571c95995b91e6881e80de553abfe3cac74b",
+          "width": 200
+        },
+        {
+          "height": 48,
+          "url": "https://i.scdn.co/image/c49b77f926f128d2b6ed9e9b146f49df3c8deee2",
+          "width": 64
+        }
+      ],
+      "name": "Los Fabulosos Cadillacs",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:2FS22haX3FYbyOsUAkuYqZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+      },
+      "followers": {
+        "href": null,
+        "total": 824017
+      },
+      "genres": [
+        "argentine rock",
+        "latin alternative",
+        "latin rock",
+        "post-punk argentina",
+        "rock en espanol",
+        "rock nacional"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6byQKddO1b34lXC2ZEjehQ",
+      "id": "6byQKddO1b34lXC2ZEjehQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/dabecdcc5a897f16e4159799d62f0ca511a40c4f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/a0051dabfd17c1af37e3544d10a2a8ae5f6b7ed7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/0d8bf9a10507d3f7be568b3ce5283b169e50aeb1",
+          "width": 160
+        }
+      ],
+      "name": "Patricio Rey y sus Redonditos de Ricota",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:6byQKddO1b34lXC2ZEjehQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+      },
+      "followers": {
+        "href": null,
+        "total": 708090
+      },
+      "genres": [
+        "argentine rock",
+        "latin alternative",
+        "latin rock",
+        "rock en espanol",
+        "ska argentino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/13wFTN72PGSUxzEHJP5Ljs",
+      "id": "13wFTN72PGSUxzEHJP5Ljs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1e5981fb62615de1ecdfb8c91d77a11450b3d88e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/5227af5b251c979dc3e843534dd2072b4ea556b0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/06ec0661722f8d3f9262f15c6b0453df21ffb3ff",
+          "width": 160
+        }
+      ],
+      "name": "Los Caligaris",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:13wFTN72PGSUxzEHJP5Ljs"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+      },
+      "followers": {
+        "href": null,
+        "total": 8285881
+      },
+      "genres": [
+        "irish rock",
+        "permanent wave",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+      "id": "51Blml2LZPmy7TTiAg47vQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e22d5c0c8139b8439440a69854ed66efae91112d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/40d6c5c14355cfc127b70da221233315497ec91d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/7293d6752ae8a64e34adee5086858e408185b534",
+          "width": 160
+        }
+      ],
+      "name": "U2",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+      },
+      "followers": {
+        "href": null,
+        "total": 3770493
+      },
+      "genres": [
+        "alternative rock",
+        "garage rock",
+        "modern rock",
+        "permanent wave",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+      "id": "0epOFNiUfyON9EYx7Tpr6V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb64d74f5985cb66b2f7b60e93",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517464d74f5985cb66b2f7b60e93",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17864d74f5985cb66b2f7b60e93",
+          "width": 160
+        }
+      ],
+      "name": "The Strokes",
+      "popularity": 81,
+      "type": "artist",
+      "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+      },
+      "followers": {
+        "href": null,
+        "total": 4881
+      },
+      "genres": [
+        "nuevo tango",
+        "tango",
+        "tango cancion"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1SkyJrTK7wUmLxV9H7ekBt",
+      "id": "1SkyJrTK7wUmLxV9H7ekBt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e765f2ff7bfdfb9c8deeec8cb8543342e4538241",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/09790ff521c04ae9e36feecf4d149f8016a62adc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/706c247e45bce96d7494b538022d61d9f77c9511",
+          "width": 160
+        }
+      ],
+      "name": "Lidia Borda",
+      "popularity": 31,
+      "type": "artist",
+      "uri": "spotify:artist:1SkyJrTK7wUmLxV9H7ekBt"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+      },
+      "followers": {
+        "href": null,
+        "total": 148695
+      },
+      "genres": [
+        "chamame",
+        "folclore salteno",
+        "folklore argentino",
+        "nueva cancion",
+        "zamba"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0t8lKcdJV0dEicuocOteOw",
+      "id": "0t8lKcdJV0dEicuocOteOw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27360ef912b1f7dbea326fb23b9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0260ef912b1f7dbea326fb23b9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485160ef912b1f7dbea326fb23b9",
+          "width": 64
+        }
+      ],
+      "name": "Los Chalchaleros",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:0t8lKcdJV0dEicuocOteOw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+      },
+      "followers": {
+        "href": null,
+        "total": 257986
+      },
+      "genres": [
+        "argentine rock",
+        "argentine telepop",
+        "latin alternative",
+        "latin rock",
+        "rock en espanol",
+        "rock nacional"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5R6YR0pasdxlynyq0Abq7x",
+      "id": "5R6YR0pasdxlynyq0Abq7x",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b9ae39de14c0645230d3897596751a73f30bce18",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/47dab56e4ff3144ee73241dc72d3b8f241d1c83c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/1e37e0dab94a51e1e568c026b0cd87446088b1ee",
+          "width": 160
+        }
+      ],
+      "name": "Fabiana Cantilo",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:5R6YR0pasdxlynyq0Abq7x"
+    }
+  ],
+  "total": 50,
+  "limit": 50,
+  "offset": 5,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=5",
+  "previous": null,
+  "next": null
+}
