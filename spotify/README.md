@@ -24,13 +24,18 @@ https://public.flourish.studio/visualisation/6266292/
 https://app.flourish.studio/@flourish/vega-lite/3 (template con Vega Lite)
 
 ## Archivos ⚙️
-spot1.json generado en la consola web de spotify "Get User's Top Artists and Tracks" https://developer.spotify.com/console/get-current-user-top-artists-and-tracks/?type=tracks&time_range=medium_term&limit=10&offset=5 
+*spot1.json* generado en la consola web de spotify "Get User's Top Artists and Tracks" https://developer.spotify.com/console/get-current-user-top-artists-and-tracks/?type=tracks&time_range=medium_term&limit=10&offset=5 
+
+*spotify2020b.csv* Este lo genere en pandas y fue el que genere en el colab en pandas.
+Corresponde a la playlist generada automaticamente por Spotify "100 canciones favoritas del 2020"
+https://open.spotify.com/playlist/37i9dQZF1EM0WTjT3czb99
 
 
-_Explica como ejecutar las pruebas automatizadas para este y
-
-### Analice las pruebas end-to-end 🔩
-
+### pruebas  🔩
+El archivo JSON si se lo carga directamente en PANDAS no muestra bien los datos hay que parsearlo y procesarlo opte por realizar
+la consulta de la playlist con mis 100 tracks favoritos en 2020. Haciendo la consulta con la libreria spotity 
+primero visualice los campos, columnas, listas que me devolvia luego las recupere usando listas [] de python y eso lo volque en un dataframe
+de pandas 
 _Explica que verifican estas pruebas y por qué_
 
 ```
@@ -55,9 +60,9 @@ Da un ejemplo
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
-* etc.
+* etc. 
 
 
 
 ---
-(https://github.com/g) 😊
+(https://github.com/gusper01) 😊
