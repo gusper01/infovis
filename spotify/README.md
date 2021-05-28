@@ -46,7 +46,7 @@ Este archivo csv lo abri con Excel lo copie y lo pegue en flourish.
 finalmente publique https://gusper01.github.io/infovis/misdatos2.html
 
 
-## Referencias e inspiracioens  📢
+## Referencias e inspiraciones  📢
 En esas páginas encontre muchas cosas y todavia me queda probar el JSON 
 https://stmorse.github.io/journal/spotify-api.html
 https://ichi.pro/es/un-analisis-del-gusto-musical-utilizando-spotify-api-y-python-251981846132220
