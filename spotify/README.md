@@ -31,38 +31,30 @@ Corresponde a la playlist generada automaticamente por Spotify "100 canciones fa
 https://open.spotify.com/playlist/37i9dQZF1EM0WTjT3czb99
 
 
+
+
 ### pruebas  🔩
 El archivo JSON si se lo carga directamente en PANDAS no muestra bien los datos hay que parsearlo y procesarlo opte por realizar
-la consulta de la playlist con mis 100 tracks favoritos en 2020. Haciendo la consulta con la libreria spotity 
-primero visualice los campos, columnas, listas que me devolvia luego las recupere usando listas [] de python y eso lo volque en un dataframe
-de pandas 
-_Explica que verifican estas pruebas y por qué_
+la consulta de la playlist con mis 100 tracks favoritos en 2020. Usando la libreria spotity 
+la respuesta a la consulta de la playlist es un diccionario de python donde primero visualice los campos, columnas luego eso lo volque en dataframes 
+de pandas y finalmente genera un nuevo dataframe con los datos que me intersaban desde el colab baje el archivo *spotify2020b.csv*.  
+Este archivo csv lo abri con Excel lo copie y lo pegue en flourish. 
 
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
 
 ## Despliegue 📦
 
+finalmente publique https://gusper01.github.io/infovis/misdatos2.html
 
 
+## Referencias e inspiracioens  📢
+En esas páginas encontre muchas cosas y todavia me queda probar el JSON 
+https://stmorse.github.io/journal/spotify-api.html
+https://ichi.pro/es/un-analisis-del-gusto-musical-utilizando-spotify-api-y-python-251981846132220
+https://github.com/plamere/spotipy/commit/63eebfa9300203e9a50d1ecd2ab3e4502639c21f
+http://harpolea.github.io/2018-05-09-spotipy
+https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-users-top-artists-and-tracks
+https://tomasezequielrau.medium.com/clustering-forecasting-spotify-songs-audio-features-5b2c21f0a6b9
+https://web.stanford.edu/~kjytay/courses/stats32-aut2018/Session%208/Spotify_final.html
+y muuuuchosss mas !
 
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc. 
-
-
-
----
 (https://github.com/gusper01) 😊
