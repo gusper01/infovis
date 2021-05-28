@@ -1,6 +1,6 @@
 # POC Mis Datos en Spotify
 
-Visualización de Un Dataset generado a partir de los datos que se pueden obtener en Spotify
+Visualización de Datos Personales. generado a partir de los datos que se pueden obtener en Spotify
 
 ## Requisitos 📋
 Tener una cuenta Premiun (con abono pago) en Spotify
@@ -25,7 +25,8 @@ https://app.flourish.studio/@flourish/vega-lite/3 (template con Vega Lite)
 
 ## Archivos ⚙️
 
-*spot1.json* generado en la consola web de spotify "Get User's Top Artists and Tracks" https://developer.spotify.com/console/get-current-user-top-artists-and-tracks/?type=tracks&time_range=medium_term&limit=10&offset=5 
+*spot1.json* generado en la consola web de spotify "Get User's Top Artists and Tracks" 
+https://developer.spotify.com/console/get-current-user-top-artists-and-tracks/?type=tracks&time_range=medium_term&limit=10&offset=5 
 
 *spotify2020b.csv* Este lo genere en pandas y fue el que genere en el colab en pandas.
 Corresponde a la playlist generada automaticamente por Spotify "100 canciones favoritas del 2020"
@@ -35,6 +36,7 @@ https://open.spotify.com/playlist/37i9dQZF1EM0WTjT3czb99
 
 
 ### pruebas  🔩
+
 El archivo JSON si se lo carga directamente en PANDAS no muestra bien los datos hay que parsearlo y procesarlo opte por realizar
 la consulta de la playlist con mis 100 tracks favoritos en 2020. Usando la libreria spotity 
 la respuesta a la consulta de la playlist es un diccionario de python donde primero visualice los campos, columnas luego eso lo volque en dataframes 
@@ -48,6 +50,7 @@ finalmente publique https://gusper01.github.io/infovis/misdatos2.html
 
 
 ## Referencias e inspiraciones  📢
+
 En esas páginas encontre muchas cosas y todavia me queda probar el JSON 
 https://stmorse.github.io/journal/spotify-api.html
 https://ichi.pro/es/un-analisis-del-gusto-musical-utilizando-spotify-api-y-python-251981846132220
