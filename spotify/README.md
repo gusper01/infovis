@@ -24,9 +24,10 @@ https://public.flourish.studio/visualisation/6266292/
 https://app.flourish.studio/@flourish/vega-lite/3 (template con Vega Lite)
 
 ## Archivos ⚙️
+spot1.json generado en la consola web de spotify "Get User's Top Artists and Tracks" https://developer.spotify.com/console/get-current-user-top-artists-and-tracks/?type=tracks&time_range=medium_term&limit=10&offset=5 
 
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Explica como ejecutar las pruebas automatizadas para este y
 
 ### Analice las pruebas end-to-end 🔩
 
@@ -59,4 +60,4 @@ Da un ejemplo
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+(https://github.com/g) 😊
