@@ -24,13 +24,14 @@ https://public.flourish.studio/visualisation/6266292/
 https://app.flourish.studio/@flourish/vega-lite/3 (template con Vega Lite)
 
 ## Archivos ⚙️
+
 *spot1.json* generado en la consola web de spotify "Get User's Top Artists and Tracks" https://developer.spotify.com/console/get-current-user-top-artists-and-tracks/?type=tracks&time_range=medium_term&limit=10&offset=5 
 
 *spotify2020b.csv* Este lo genere en pandas y fue el que genere en el colab en pandas.
 Corresponde a la playlist generada automaticamente por Spotify "100 canciones favoritas del 2020"
 https://open.spotify.com/playlist/37i9dQZF1EM0WTjT3czb99
 
-
+*POC_Spotify.ipynb* notebook Colab
 
 
 ### pruebas  🔩
