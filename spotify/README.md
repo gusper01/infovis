@@ -1,41 +1,30 @@
-# Título del Proyecto
+# POC Mis Datos en Spotify
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Visualización de Un Dataset generado a partir de los datos que se pueden obtener en Spotify
 
-## Comenzando 🚀
+## Requisitos 📋
+Tener una cuenta Premiun (con abono pago) en Spotify
+Obtener los datos a visualizar desde https://www.spotify.com/ar/account/privacy/ (sitio para Argentina)
+En su defecto entrar a la página de Spotify Developers, iniciar sesión y crear una aplicación. De esta manera se genera automáticamente el Client ID y el Client Secret.
+https://developer.spotify.com/ (este fue mi caso)
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+### Herramientas 🔧
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Google Colab - Python
+Se deben instalar en el colab :
+  spotipy https://spotipy.readthedocs.io/en/2.18.0/
+  ijson para parsear el archivo json
 
+Flourish para Visualizaciones (algo de Vega Lite https://vega.github.io/vega-lite/) 
 
-### Pre-requisitos 📋
+https://public.flourish.studio/visualisation/6236780/
+https://public.flourish.studio/visualisation/6269068/
+https://public.flourish.studio/visualisation/6266292/
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+https://app.flourish.studio/@flourish/vega-lite/3 (template con Vega Lite)
 
-```
-Da un ejemplo
-```
+## Archivos ⚙️
 
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
@@ -57,40 +46,8 @@ Da un ejemplo
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
 
-## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 
