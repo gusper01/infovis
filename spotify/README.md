@@ -4,7 +4,7 @@ Visualización de Datos Personales. generado a partir de los datos que se pueden
 
 ## Requisitos 📋
 Tener una cuenta Premiun (con abono pago) en Spotify
-Obtener los datos a visualizar desde [spotify]: https://www.spotify.com/ar/account/privacy/ (sitio para Argentina)
+Obtener los datos a visualizar desde [spotify1]: https://www.spotify.com/ar/account/privacy/ (sitio para Argentina)
 En su defecto entrar a la página de Spotify Developers, iniciar sesión y crear una aplicación. De esta manera se genera automáticamente el Client ID y el Client Secret.
 https://developer.spotify.com/ (este fue mi caso)
 
