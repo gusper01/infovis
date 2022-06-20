@@ -46,7 +46,7 @@ Este archivo csv lo abri con Excel lo copie y lo pegue en flourish.
 
 ## Despliegue 📦
 
-finalmente publique https://gusper01.github.io/spotify/misdatos2.html
+finalmente publique https://gusper01.github.io/infovis/spotify/misdatos2.html
 
 
 ## Referencias e inspiraciones  📢
