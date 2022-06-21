@@ -28,8 +28,7 @@ https://app.flourish.studio/@flourish/vega-lite/3 (template con Vega Lite)
 *spot1.json* generado en la consola web de spotify [Get User's Top Artists and Tracks](https://developer.spotify.com/console/get-current-user-top-artists-and-tracks/?type=tracks&time_range=medium_term&limit=10&offset=5) 
 
 *spotify2020b.csv* Este lo genere en pandas y fue el que genere en el colab en pandas.
-Corresponde a la playlist generada automaticamente por Spotify "100 canciones favoritas del 2020"
-https://open.spotify.com/playlist/37i9dQZF1EM0WTjT3czb99
+Corresponde a la playlist generada automaticamente por Spotify [100 canciones favoritas del 2020](https://open.spotify.com/playlist/37i9dQZF1EM0WTjT3czb99)
 
 *POC_Spotify.ipynb* notebook Colab
 
@@ -45,7 +44,7 @@ Este archivo csv lo abri con Excel lo copie y lo pegue en flourish.
 
 ## Despliegue 📦
 
-finalmente publique https://gusper01.github.io/infovis/spotify/misdatos2.html
+finalmente publique [Mis datos en Spotify](https://gusper01.github.io/infovis/spotify/misdatos2.html)
 
 
 ## Referencias e inspiraciones  📢
