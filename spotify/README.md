@@ -12,7 +12,7 @@ En su defecto entrar a la página de Spotify Developers, iniciar sesión y crear
 
 Google Colab - Python
 Se deben instalar en el colab :
-  spotipy (https://spotipy.readthedocs.io/en/2.18.0/)
+  spotipy https://spotipy.readthedocs.io/en/2.18.0/
   ijson para parsear el archivo json
 
 Flourish para Visualizaciones (algo de Vega Lite https://vega.github.io/vega-lite/) 
